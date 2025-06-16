@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [E-commerce project](https://siddh07.github.io/Ecommerce/)
 
-- 🌱 I’m currently learning **Reactjs,Typescript**
+- 🌱 I’m currently learning **Reactjs,Typescript,Tailwind**
 
 - 📫 How to reach me **sidd.hant.1793@gmail.com**
 
